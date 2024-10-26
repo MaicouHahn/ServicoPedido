@@ -1,0 +1,104 @@
+# Arquivos do sistema operacional
+[Dd]esktop.ini
+[Tt]humbs.db
+ehthumbs.db
+
+# Visual Studio
+.vscode/
+.vs/
+.vscode/
+.vs/**/*.*
+.vs/SolutionName/v16/
+
+# Arquivos de build
+bin/
+obj/
+out/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# Arquivos de Log, debug e temporários
+*.log
+*.tlog
+*.pdb
+*.user
+*.userosscache
+*.suo
+*.userprefs
+*.sln.docstates
+
+# Pacotes
+*.nupkg
+*.snupkg
+*.nuspec
+packages/
+*.psess
+.project/
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Arquivos de configuração do IDE
+.idea/
+.vscode/
+.vscode/settings.json
+
+# Rider e ReSharper
+.idea/
+*.DotSettings.user
+.ReSharper*/
+*.sln.iml
+
+# Arquivos gerados pelo NuGet
+*.nupkg
+*.snupkg
+*.nuget
+*.psmdcp
+
+# Configuração de Certificados Locais
+**/*.pfx
+**/*.p12
+
+# Configurações do diretório de publicação
+.publish/
+
+# Diretório de dependências locais
+lib/
+
+# Configurações temporárias
+*.swp
+*.bak
+*~.nib
+*.tmp
+*.swp
+*.bak
+*~
+.*.swp
+
+# Arquivos temporários
+*.tmp
+*.tmp.*
+*.temp
+*.temp.*
+
+# Arquivos de Deploy
+*.publishsettings
+*.pubxml
+*.pubxml.user
+.deployment
+.Dockerfile
+.dockerignore
+
+# Docker e Container
+docker-compose.*
+Dockerfile
+docker-compose.override.*
+.env
+.env.*
+
+# Configurações e arquivos de log
+appsettings.*.json
+appsettings.*.yml
+appsettings.json
+.env
